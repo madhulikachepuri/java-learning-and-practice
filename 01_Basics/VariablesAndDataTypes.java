@@ -1,4 +1,4 @@
-public class VarData{
+public class VariablesAndDataTypes{
 
     public static void main(String args[]){
         
